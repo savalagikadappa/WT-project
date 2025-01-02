@@ -49,4 +49,6 @@ While we are thrilled with our current implementation, we see room for growth:
 
 ---
 
+Review this Google Sites for more info about project:- https://sites.google.com/view/webtechportfoliokadappa/home
+
 Thank you for exploring the **Generate and Allocate Classrooms** module! Together, we're working towards a more efficient and integrated exam management system. 📚🎉
